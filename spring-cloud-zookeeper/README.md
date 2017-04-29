@@ -1,4 +1,4 @@
-##spring-cloud-zookeeper
+# spring-cloud-zookeeper
 
 spring-cloud-zookeeper-service-provider is service provider, and 
 spring-cloud-zookeeper-service-consumer is service consumer.
@@ -22,7 +22,7 @@ spring-cloud-zookeeper-service-consumer是服务消费者。
 *  在浏览器里面输入http://localhost:8083/greeting ， 如果配置没什么问题的话，应该可以看到结果。
 
 
-##Reference:
+## Reference:
 *  http://www.baeldung.com/spring-cloud-zookeeper?utm_content=buffer2741f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 *  https://github.com/eugenp/tutorials/tree/master/spring-cloud/spring-cloud-zookeeper
 
